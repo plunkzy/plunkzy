@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @plunkzy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning in the Smolensk Branch of the Moscow Power Engineering Institute
+- 👀 I’m interested in creating educational projects for all
+- 🌱 I’m currently studying in the Smolensk Branch of the Moscow Power Engineering Institute
 - 📫 How to reach me: e-mail litvinov@67team.ru // telegram @plunkzy
 
 <!---
